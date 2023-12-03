@@ -27,3 +27,10 @@ function findFirstRepeated(gifts) {
   return -1;
 }
 ```
+
+### Results
+
+```
+3,219 ops/s (Higher is better)
+Cognitive complexity: 3
+```
