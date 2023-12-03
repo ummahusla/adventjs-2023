@@ -50,6 +50,5 @@ function manufacture(gifts, materials) {
 
 ```
 2,487 ops/s (Higher is better)
-Cognitive complexity: 4
-(Lower is better)
+Cognitive complexity: 4 (Lower is better)
 ```
